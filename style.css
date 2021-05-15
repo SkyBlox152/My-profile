@@ -127,7 +127,7 @@ p {
 
 #elon{
   height: 300px;
-  width:250;
+  width:500;
 }
 #elon_musk{
     font-size: 25;
@@ -148,3 +148,10 @@ p {
            color : white;
            font-size: 20px;
        }
+
+#Messi{
+    width: 500;
+}
+#David{
+    width: 500;
+}
